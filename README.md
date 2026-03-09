@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45a189da-cfbc-4aa2-8af9-9810d101408b" width="100%" alt="Banner" />
+</p>
+
 <div align="center">
-  <h1>Hi 👋, I'm Shahriar Ayub</h1>
+  <h1>Hi 👋, I'm 
+Shahriar Ayub</h1>
   <p><strong>MERN Stack Developer | JavaScript, React, and Node.js Enthusiast</strong></p>
 </div>
 
