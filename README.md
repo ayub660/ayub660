@@ -1,59 +1,52 @@
-# 👋 Hi, I'm Shahriar Ayub 
-### 💻 MERN Stack Developer
-
-
-------
-### **📫 Connect With Me**
-
-
-- 💼 **Portfolio:** [Visit My site](https://portfolio-ayubb.netlify.app)
-- 📨 **Gmail:** [md.ayub0070@gmail.com](mailto:md.ayub0070@gmail.com)
+# Hi 👋, I'm Shahriar Ayub  
+### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
 
+## 👨‍💻 About Me  
+* 👋 Hi, I'm **Shahriar Ayub**
+* 🖥️ I'm currently working on **React.js**, **Node.js**, **JavaScript**, and **Tailwind CSS** for frontend development.
+* ⚙️ Using **Node.js**, **Express.js**, and **MongoDB** for the backend.
+* 🚀 Beyond my current stack, I love exploring next-level languages and modern tech.
+* ✍️ I'm dedicated to writing clean code and turning complex ideas into reality.
+---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayub660&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ayub's Stats" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayub660&theme=dark" alt="Ayub's Streak" height="170px" />
-</p>
+## 🛠️ Tech Stack  
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-### 🚀 About Me
-- 👨‍💻 **MERN Stack Developer** (MongoDB, Express, React, Node.js)
-- 🌱 Currently building **full-stack web applications**
-- 🔥 Passionate about **clean UI, scalable backend & performance**
-- 🎯 Focused on **real-world projects** and best practices
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-ayub-489b88365)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://portfolio-ayubb.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](md.ayub0070@gmail.com)
 
 ---
 
-### 🔭 Recent Activity
-- 🚀 Exploring **Next.js** for server-side rendering.
-- 🏢 Building **AssetVerse** - A Corporate Asset Management System.
-- 💼 Developing various **full-stack MERN** projects with dual-role dashboards.
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayub660&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayub660&layout=compact&theme=transparent) |
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-* **🏢 AssetVerse** – A professional B2B HR and Asset Management solution featuring dual-role dashboards and Stripe payment integration.
-* **📱 AssetGadget** – A high-performance web application focused on managing and showcasing the latest tech gadgets with a seamless user experience.
-* **🧸 ToyTopia** – A vibrant and interactive online marketplace for children's toys, built as a single-page application (SPA).
-* **🌐 Dashboard & Admin Panel Applications** – Complex management systems with real-time data visualization and secure authentication.
-
----
-<p align="center">⭐️ From <b>Shahriar Ayub</b></p>
+![Profile views](https://komarev.com/ghpvc/?username=ayub660&style=flat-square&color=blue&label=Profile+Views)
