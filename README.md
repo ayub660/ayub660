@@ -1,5 +1,7 @@
-# Hi 👋, I'm Shahriar Ayub  
-### 🔭 I build things with JavaScript, React, and Node.js
+<div align="center">
+  <h1>Hi 👋, I'm Shahriar Ayub</h1>
+  <p><strong>MERN Stack Developer | JavaScript, React, and Node.js Enthusiast</strong></p>
+</div>
 
 ---
 
